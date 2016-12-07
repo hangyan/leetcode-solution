@@ -69,3 +69,5 @@ public:
     }
 };
 ```
+
+参考 [[LeetCode] Flatten Binary Tree to Linked List 将二叉树展开成链表](http://www.cnblogs.com/grandyang/p/4293853.html)
